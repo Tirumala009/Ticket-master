@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ticketmaster/static/css/main.03b46c5c.chunk.css",
+    "main.js": "/ticketmaster/static/js/main.95ddb7e5.chunk.js",
+    "main.js.map": "/ticketmaster/static/js/main.95ddb7e5.chunk.js.map",
+    "runtime-main.js": "/ticketmaster/static/js/runtime-main.274b6cf6.js",
+    "runtime-main.js.map": "/ticketmaster/static/js/runtime-main.274b6cf6.js.map",
+    "static/js/2.fb1451f1.chunk.js": "/ticketmaster/static/js/2.fb1451f1.chunk.js",
+    "static/js/2.fb1451f1.chunk.js.map": "/ticketmaster/static/js/2.fb1451f1.chunk.js.map",
+    "index.html": "/ticketmaster/index.html",
+    "precache-manifest.e91d7b8fb814996a0266731fa4ff25b2.js": "/ticketmaster/precache-manifest.e91d7b8fb814996a0266731fa4ff25b2.js",
+    "service-worker.js": "/ticketmaster/service-worker.js",
+    "static/css/main.03b46c5c.chunk.css.map": "/ticketmaster/static/css/main.03b46c5c.chunk.css.map",
+    "static/js/2.fb1451f1.chunk.js.LICENSE.txt": "/ticketmaster/static/js/2.fb1451f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274b6cf6.js",
+    "static/js/2.fb1451f1.chunk.js",
+    "static/css/main.03b46c5c.chunk.css",
+    "static/js/main.95ddb7e5.chunk.js"
+  ]
+}
